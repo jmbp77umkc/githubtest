@@ -17,8 +17,8 @@ int main() {
     bool result;
     
     while(!quit) {
-//        cout << "A/U/R/L/C/Q: ";
-        cout << "I don't know what's happening aaaaaaaaaaaaaaaaaaaaaa: ";
+        cout << "A/U/R/L/C/Q: ";
+//        cout << "I don't know what's happening aaaaaaaaaaaaaaaaaaaaaa: ";
         cin >> input;
         switch (input.at(0)) {
             case 'A':
